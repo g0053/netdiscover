@@ -25,9 +25,10 @@ Requirements
  - libnet > 1.1.2
  - Tested to work on Linux, Solaris MacOS X and OpenBSD, other unixes may work
  - CENTOS 8.4 libpcap-devel is requared as well:
- ```sh
+ ```
  wget https://rpmfind.net/linux/centos/8.4.2105/PowerTools/x86_64/os/Packages/libpcap-devel-1.9.1-5.el8.x86_64.rpm
  yum install ./libpcap-devel-1.9.1-5.el8.x86_64.rpm
+ 
  ```
 
 Build
